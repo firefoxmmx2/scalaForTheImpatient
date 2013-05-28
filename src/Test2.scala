@@ -411,6 +411,7 @@ object Test2 {
 		
 		println(Source.fromFile("/home/hooxin/dead.letter", "utf8").mkString);
 		
+
 	}
 
 }
